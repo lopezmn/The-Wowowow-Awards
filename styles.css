@@ -1,0 +1,35 @@
+img{
+    width:430px;
+    height:430px;
+}
+p{
+    font-size:25px;
+}
+h1{
+    font-size:40px;
+}
+.film{
+    font-family: 'Pacifico', cursive;
+    color:cornflowerblue;
+}
+.tv{
+    font-family: 'Lobster', cursive;
+    color:dodgerblue;
+}
+.camera{
+    font-family: 'Dancing Script', cursive;
+    color:blue;
+}
+.music{
+    font-family: 'Great Vibes', cursive;
+    color:DEEPSKYBLUE;
+}
+.reading{
+    font-family: 'Satisfy', cursive;
+    color:DARKBLUE;
+}
+body{
+    text-align:center;
+    background-image:url("https://data.whicdn.com/images/221235314/large.jpg");
+}
+
